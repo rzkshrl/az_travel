@@ -9,13 +9,9 @@ class WelcomeScreenView extends GetView<WelcomeScreenController> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('WelcomeScreenView'),
-        centerTitle: true,
-      ),
-      body: const Center(
+      body: const SingleChildScrollView(
         child: Text(
-          'WelcomeScreenView is working',
+          'Cepat, Mudah, Solusi Keluarga',
           style: TextStyle(fontSize: 20),
         ),
       ),
