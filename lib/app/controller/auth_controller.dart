@@ -27,10 +27,10 @@ class AuthController extends GetxController {
   //inisiasi model data user
   var userData = UserModel().obs;
 
-  Stream<DocumentSnapshot<Map<String, dynamic>>> getUserRoles() async* {
-    var email = auth.currentUser!.email;
-    yield* firestore.collection("users").doc(email).snapshots();
-  }
+  // Stream<DocumentSnapshot<Map<String, dynamic>>> getUserRoles() async* {
+  //   var email = auth.currentUser!.email;
+  //   yield* firestore.collection("users").doc(email).snapshots();
+  // }
 
   Future signInGoogle() async {
     await _googleSignIn.signOut();
