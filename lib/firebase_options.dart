@@ -47,29 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCJxMeVYZGOIHqwdxfBZPazzZ3WgaQUP7U',
-    appId: '1:516917389194:web:300b42910eab4dd7904a73',
-    messagingSenderId: '516917389194',
-    projectId: 'aztravel-d5365',
-    authDomain: 'aztravel-d5365.firebaseapp.com',
-    storageBucket: 'aztravel-d5365.appspot.com',
-    measurementId: 'G-QPJH723XWG',
+    apiKey: 'AIzaSyBwvw-oHSMeSSrrXtSg082gqh5sNcIcJME',
+    appId: '1:24614197256:web:5889c3680885f802b159bd',
+    messagingSenderId: '24614197256',
+    projectId: 'aztravel-20616',
+    authDomain: 'aztravel-20616.firebaseapp.com',
+    storageBucket: 'aztravel-20616.appspot.com',
+    measurementId: 'G-9PGGRZY9BS',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC7cSw9RKqHfJfNDSMrtotDotApBF4N3yw',
-    appId: '1:516917389194:android:b58efb0340243f9e904a73',
-    messagingSenderId: '516917389194',
-    projectId: 'aztravel-d5365',
-    storageBucket: 'aztravel-d5365.appspot.com',
+    apiKey: 'AIzaSyB1lkm_WQv3UXSzBLYBdrk0yGzFHjCCB7o',
+    appId: '1:24614197256:android:c62d328756976543b159bd',
+    messagingSenderId: '24614197256',
+    projectId: 'aztravel-20616',
+    storageBucket: 'aztravel-20616.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBPniDoFEVylj-UfD7Qsxyf9MFekEL8JQg',
-    appId: '1:516917389194:ios:e5ba8e112fa414ea904a73',
-    messagingSenderId: '516917389194',
-    projectId: 'aztravel-d5365',
-    storageBucket: 'aztravel-d5365.appspot.com',
+    apiKey: 'AIzaSyD5gq834wWP7oWae-3YM2d5gMlVdEZTiro',
+    appId: '1:24614197256:ios:133a686fca1d54a6b159bd',
+    messagingSenderId: '24614197256',
+    projectId: 'aztravel-20616',
+    storageBucket: 'aztravel-20616.appspot.com',
+    iosClientId: '24614197256-hdmofnnhujk06i3vc88ocmkcufik8ci8.apps.googleusercontent.com',
     iosBundleId: 'com.example.azTravel',
   );
 }

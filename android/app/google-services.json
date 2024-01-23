@@ -1,20 +1,20 @@
 {
   "project_info": {
-    "project_number": "516917389194",
-    "project_id": "aztravel-d5365",
-    "storage_bucket": "aztravel-d5365.appspot.com"
+    "project_number": "24614197256",
+    "project_id": "aztravel-20616",
+    "storage_bucket": "aztravel-20616.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:516917389194:android:b58efb0340243f9e904a73",
+        "mobilesdk_app_id": "1:24614197256:android:c62d328756976543b159bd",
         "android_client_info": {
           "package_name": "com.example.az_travel"
         }
       },
       "oauth_client": [
         {
-          "client_id": "516917389194-sn898fv6a9354c79angetpaa61jvm9ho.apps.googleusercontent.com",
+          "client_id": "24614197256-jkmvarcgj3fv5vuehmjeo72l3qicval1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.az_travel",
@@ -22,24 +22,24 @@
           }
         },
         {
-          "client_id": "516917389194-l6f2oj190o063dp03hde1n21bo1t1lbh.apps.googleusercontent.com",
+          "client_id": "24614197256-ptf5p70m7fmc8t2jqcrauil4g6jj80eg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC7cSw9RKqHfJfNDSMrtotDotApBF4N3yw"
+          "current_key": "AIzaSyB1lkm_WQv3UXSzBLYBdrk0yGzFHjCCB7o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "516917389194-l6f2oj190o063dp03hde1n21bo1t1lbh.apps.googleusercontent.com",
+              "client_id": "24614197256-ptf5p70m7fmc8t2jqcrauil4g6jj80eg.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "516917389194-cg2u50i41rdt6n3i37b9kj3fs6rfi4dq.apps.googleusercontent.com",
+              "client_id": "24614197256-hdmofnnhujk06i3vc88ocmkcufik8ci8.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.azTravel"
