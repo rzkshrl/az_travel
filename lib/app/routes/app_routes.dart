@@ -13,6 +13,7 @@ abstract class Routes {
   static const SEARCH = _Paths.SEARCH;
   static const PROCESS = _Paths.PROCESS;
   static const PROFILE = _Paths.PROFILE;
+  static const FORM_MOBIL = _Paths.FORM_MOBIL;
 }
 
 abstract class _Paths {
@@ -25,4 +26,5 @@ abstract class _Paths {
   static const SEARCH = '/search';
   static const PROCESS = '/process';
   static const PROFILE = '/profile';
+  static const FORM_MOBIL = '/form-mobil';
 }

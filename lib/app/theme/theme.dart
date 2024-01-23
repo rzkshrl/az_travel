@@ -25,5 +25,25 @@ class AZTravelTheme {
         statusBarColor: light,
       ),
     ),
+    brightness: Brightness.light,
+    popupMenuTheme: PopupMenuThemeData(
+      color: light,
+      surfaceTintColor: Colors.transparent,
+      textStyle: TextStyle(color: dark, fontWeight: FontWeight.w400),
+    ),
+    iconTheme: IconThemeData(
+      color: dark,
+    ),
+    cardColor: light,
+    textTheme: TextTheme(
+      headlineLarge: TextStyle(color: light),
+      headlineMedium: TextStyle(color: light),
+      titleLarge: TextStyle(color: black),
+      titleMedium: TextStyle(color: black),
+      titleSmall: TextStyle(color: blue_0C134F),
+      headlineSmall: TextStyle(color: black),
+      displayMedium: TextStyle(color: black),
+      displaySmall: TextStyle(color: black.withOpacity(0.5)),
+    ),
   );
 }

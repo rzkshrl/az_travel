@@ -15,7 +15,7 @@ class LoginView extends GetView<LoginController> {
   Widget build(BuildContext context) {
     final authC = AuthController();
     return AnnotatedRegion(
-      value: SystemUiOverlayStyle(
+      value: const SystemUiOverlayStyle(
         statusBarBrightness: Brightness.light,
         statusBarIconBrightness: Brightness.light,
         statusBarColor: Colors.transparent,
