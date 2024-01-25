@@ -73,7 +73,7 @@ class FormMobilView extends GetView<FormMobilController> {
                     textEditingController: controller.noPolisiC,
                     hintText: 'Nomor Polisi',
                     iconPrefix: PhosphorIconsBold.numberCircleFour,
-                    keyboardType: TextInputType.number,
+                    keyboardType: TextInputType.text,
                     validator: controller.normalValidator,
                   ),
                   SizedBox(
